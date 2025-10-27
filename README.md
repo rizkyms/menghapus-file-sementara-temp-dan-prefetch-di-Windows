@@ -1,1 +1,1 @@
-# menghapus-file-sementara-temp-dan-prefetch-di-Windows
+# Menghapus file sementara (temp) dan prefetch di Windows
